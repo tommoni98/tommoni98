@@ -1,4 +1,4 @@
-# Hi there, I'm Tom Moni! 👋
+# Hi there, I'm Tom! 👋
 
 ## 🚀 About Me
 - 🔭 I'm currently working as a Jr. Business Intelligence Analyst at Barrett Steel Ltd
