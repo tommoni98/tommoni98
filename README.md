@@ -1,7 +1,7 @@
 # Hi there, I'm Tom! 👋
 
 ## 🚀 About Me
-- 🔭 I'm currently working as a Jr. Business Intelligence Analyst at Barrett Steel Ltd
+- 🔭 I'm currently working as a Business Intelligence Analyst
 - 🌱 I'm passionate about data analysis, business intelligence, and automation
 - 💼 I have experience with Alteryx, Tableau, Python, SQL, and Power BI
 - 🎓 MSc in Data Analysis for Business Intelligence from University of Leicester
